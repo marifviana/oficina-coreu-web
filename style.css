@@ -8,19 +8,21 @@ div {
     height: 30rem;
     margin: 1rem auto;
     padding: 0.8rem;
+    box-shadow: 0.8rem 0.3rem 0.9rem 0.1rem rgba(56, 46, 2, 0.452);
 }
 img {
-    width: 14.2rem
+    width: 14.3rem
 }
 p {
     color: rgb(0, 0, 0);
     width: 14.9rem;
-    height: 11rem;
-    border-radius: 10%;"
+    height: 18rem;
+    border-radius: 10%;
 }
 button {
     background-color: gray;
     color: white;
     border: none;
     padding: 0.5rem 2rem;
-    box-shadow: 0.8rem 0.3rem 0.9rem 0.1rem rgba(56, 46, 2, 0.452);
+    
+}
